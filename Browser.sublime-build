@@ -1,4 +1,0 @@
-{
-	"cmd": ["C:/Program Files/Mozilla Firefox/firefox.exe", "$file"],
-	"selector": ["text.html"]
-}
