@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"Babel",
+		"DocBlockr",
 		"Emmet",
 		"HTML-CSS-JS Prettify",
 		"Jade",

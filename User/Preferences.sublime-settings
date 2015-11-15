@@ -13,5 +13,7 @@
 	[
 		"Vintage"
 	],
-	"tab_size": 2
+	"line_padding_bottom": 4,
+	"line_padding_top": 4,
+	"tab_size": 4
 }
