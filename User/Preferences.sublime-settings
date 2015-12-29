@@ -2,18 +2,18 @@
 	"color_scheme": "Packages/User/SublimeLinter/RailsCastsColorScheme (SL).tmTheme",
 	"file_exclude_patterns":
 	[
-		".git*"
 	],
 	"folder_exclude_patterns":
 	[
 		".git"
 	],
-	"font_size": 16,
+	"font_size": 15,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"line_padding_bottom": 4,
 	"line_padding_top": 4,
-	"tab_size": 4
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true
 }
